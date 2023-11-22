@@ -1,16 +1,30 @@
-### Hi there 👋
+<h2>yO 👋 , I'm Eduardo.</h2>
+I'm a brazilian full stack developer based in Länghem SE and with more than 19 years of experience and a degree in business administration.
 
-<!--
-**eduforell/eduforell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-Here are some ideas to get you started:
+- &nbsp;Mobile:&nbsp;
+  ![Flutter](https://img.shields.io/badge/-Flutter-0A1A2F?style=flat&logo=flutter)
+- &nbsp;Backend:&nbsp;
+  ![Python](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
+  ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
+- &nbsp;Frontend:&nbsp;
+  ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
+  ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
+- &nbsp;Database:&nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
+  ![Postgresql](https://img.shields.io/badge/-Postgresql-0A1A2F?style=flat&logo=postgresql)
+- &nbsp;Cloud: &nbsp;
+  ![amazonaws](https://img.shields.io/badge/-amazonaws-0A1A2F?style=flat&logo=amazonaws)
+  ![microsoftazure](https://img.shields.io/badge/-microsoftazure-0A1A2F?style=flat&logo=microsoftazure)
+- &nbsp;VCS: &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
+- &nbsp;IDE's:&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- &nbsp;Design:&nbsp;
+  ![AdobeXD](https://img.shields.io/badge/-AdobeXD-0A1A2F?style=flat&logo=adobe-xd)
+  ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
