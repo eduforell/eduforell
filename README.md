@@ -16,8 +16,8 @@ I'm a brazilian full stack developer based in Länghem SE and with more than 19 
   ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
   ![Postgresql](https://img.shields.io/badge/-Postgresql-0A1A2F?style=flat&logo=postgresql)
 - &nbsp;Cloud: &nbsp;
-  ![amazonaws](https://img.shields.io/badge/-amazonaws-0A1A2F?style=flat&logo=amazonaws)
-  ![microsoftazure](https://img.shields.io/badge/-microsoftazure-0A1A2F?style=flat&logo=microsoftazure)
+  ![AWS](https://img.shields.io/badge/-amazonaws-0A1A2F?style=flat&logo=amazonaws)
+  ![Azure](https://img.shields.io/badge/-microsoftazure-0A1A2F?style=flat&logo=microsoftazure)
 - &nbsp;VCS: &nbsp;
   ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
