@@ -1,5 +1,5 @@
 <h2>yO 👋 , I'm Eduardo.</h2>
-I'm a brazilian full stack developer based in Länghem SE and with more than 19 years of experience and a degree in business administration.
+I'm a brazilian full stack developer based in Länghem SE and with 20 years of experience and a degree in business administration.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
